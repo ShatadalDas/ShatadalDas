@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on DSA in C++
 - 💞️ I’m looking to collaborate on Facebook
 - 📫 How to reach me -> ( https://www.facebook.com/dasShatadal )
-- 📚 Languages I'm learning currently -> C++, Kotlin, HTML, CSS, JS, Dart, etc.
+- 📚 Languages I'm learning currently -> C++, HTML, CSS, JS, ReactJS, MERN Stack, etc.
 
 <!---
 ShatadalDas/ShatadalDas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
