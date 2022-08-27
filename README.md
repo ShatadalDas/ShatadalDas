@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ShatadalDas
-- 👀 I’m interested in programming, exploring different languages, and work collaborately
+- 👀 I’m interested in programming, exploring different languages, and working collaborately
 - 🌱 I’m currently working on DSA in C++
-- 💞️ I’m looking to collaborate on Facebook
-- 📫 How to reach me -> ( https://www.facebook.com/dasShatadal )
-- 📚 Languages I'm learning currently -> C++, HTML, CSS, JS, ReactJS, MERN Stack, etc.
+- 💞️ Let's connect on LinkedIn
+- 📫 How to reach me -> LinkedIn( https://www.linkedin.com/in/shatadal-das-a434821bb/ )
+- 📚 Languages I'm learning currently -> C++, ReactJS, MERN Stack.
 
 <!---
 ShatadalDas/ShatadalDas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
